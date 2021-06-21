@@ -1,0 +1,2 @@
+# Foo
+Git training session
